@@ -1,5 +1,5 @@
 # GithubProfileApp
-An Angular 4 + Ionic 3 simple app
+An Angular 4 + Ionic 3 simple app Testing MergeTool
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
